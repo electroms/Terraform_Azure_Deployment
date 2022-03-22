@@ -6,7 +6,13 @@ terraform {
       version = "~> 2.65"
     }
   }
-
+# Cloud Bloc
+ cloud {
+   organization = "Organisation-Name"
+   workspaces {
+     name = "Workspace-Name"
+   }
+ }
   required_version = ">= 1.1.0"
 }
 
