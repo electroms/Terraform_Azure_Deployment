@@ -8,9 +8,9 @@ terraform {
   }
 # Cloud Bloc
  cloud {
-   organization = "Organisation-Name"
+   organization = "Electroms"
    workspaces {
-     name = "Workspace-Name"
+     name = "Electroms-workspace"
    }
  }
   required_version = ">= 1.1.0"
