@@ -1,4 +1,4 @@
-# Terraform_Azure_Depoyment : 
+# Terraform_Azure_Deployment : 
 
 https://learn.hashicorp.com/tutorials/terraform/azure-build?in=terraform/azure-get-started
 
